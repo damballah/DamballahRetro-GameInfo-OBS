@@ -1,0 +1,2 @@
+overlay.html et current.txt peuvent être des fichiers générés à l'exécution.
+Le projet principal est GameInfo.ps1 + config.ini + GameInfo.bat.
