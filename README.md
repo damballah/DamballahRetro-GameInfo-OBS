@@ -11,6 +11,7 @@ Navigateur dans OBS.
 ## ✨ Fonctionnalités
 
 - 🎮 Détection automatique du jeu lancé dans RetroBat
+- ⚙️ Paramétrage centralisé dans un fichier `.ini`
 - 🖼️ Affichage de la jaquette lorsqu'elle est disponible
 - 🏷️ Nom du jeu
 - 💿 Système / plateforme
@@ -18,15 +19,10 @@ Navigateur dans OBS.
 - 🎯 Genre
 - 👨‍💻 Développeur
 - 🏢 Éditeur
-- 📝 Description du jeu
-- 📜 Description défilante
-- ⏱️ Délai configurable avant l'apparition de l'overlay
+- 📝 Description du jeu défilante
 - 👁️ Durée d'affichage configurable
-- 🔁 Intervalle configurable entre deux affichages
-- 📐 Overlay horizontal avec mise en page responsive
-- 🌑 Ombre de l'overlay activable ou désactivable depuis `config.ini`
-- ⚙️ Paramétrage centralisé dans un fichier `.ini`
-- 🔄 Détection périodique du jeu en cours
+- 📐 Mise en page responsive
+- 🌑 Ombre de l'overlay activable ou désactivable
 
 ## 🖥️ Principe
 
